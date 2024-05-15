@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi Greetings from Lima, Peru 👋
+- 🔭 I’m currently working on Informática Delta S.A.C.
+  
 <!--
 **JCPeruDesa/JCPeruDesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
